@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="PRODOfferRemovalDesktop">PRODSonataVLPOfferRemoval</a></td></tr>
+<tr><td><a href="PRODSonataWhyOfferRemoval">PRODSonataWhyOfferRemoval</a></td></tr>
+<tr><td><a href="PRODAzeraVLPOfferRemoval">PRODAzeraVLPOfferRemoval</a></td></tr>
+<tr><td><a href="PRODAzeraWhyOfferRemoval">PRODAzeraWHYOfferRemoval</a></td></tr>
+<tr><td><a href="PRODTucsonVLPOfferRemoval">PRODTucsonVLPOfferRemoval</a></td></tr>
+<tr><td><a href="PRODTucsconWHYOfferRemoval">PRODTucsonWHYOfferRemoval</a></td></tr>
+<tr><td><a href="PRODSantaFeSportVLPOfferRemoval">PRODSantaFeSportVLPOfferRemoval</a></td></tr>
+<tr><td><a href="PRODSantaFeSportWHYOfferRemoval">PRODSantaFeSportWHYOfferRemoval</a></td></tr>
+<tr><td><a href="PRODSantaFeVLPOfferRemoval">PRODSantaFeVLPOfferRemoval</a></td></tr>
+<tr><td><a href="PRODSantaFeWHYOfferRemoval">PRODSantaFeWHYOfferRemoval</a></td></tr>
+<tr><td><a href="PRODDesktopOfferRemoval">PRODAccentVLPOfferRemoval</a></td></tr>
+<tr><td><a href="PRODAccentWhyOfferRemoval">PRODAccentWHYOfferremoval</a></td></tr>
+<tr><td><a href="PRODVelosterVLPOfferRemoval">PRODVelosterVLPOfferRemoval</a></td></tr>
+<tr><td><a href="PRODVelosterWHYOfferRemoval">PRODVelosterWHYOfferRemoval</a></td></tr>
+<tr><td><a href="PRODElantraGTVLPOfferRemoval">PRODElantraGTVLPOfferRemoval</a></td></tr>
+<tr><td><a href="PRODElantraGTWHYOfferRemoval">PRODElantraGTWHYOfferRemoval</a></td></tr>
+<tr><td><a href="PRODIoniqHybridVLPOfferRemoval">PRODIoniqHybridVLPOfferRemoval</a></td></tr>
+<tr><td><a href="PRODSonataHybridVLPOfferRemoval">PRODSonataHybridVLPOfferRemoval</a></td></tr>
+<tr><td><a href="PRODSonataHybridWHYOfferRemoval">PRODSonataHybridWHYOfferRemoval</a></td></tr>
+</tbody></table>
+</body>
+</html>
